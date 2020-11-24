@@ -234,4 +234,4 @@ Je voudrais juste signale aussi que l'attribut SSL dans le feuille "server" du f
 
 ## L'intérêt de ce programme
 
-Le but de ce programme est d'automatiser la gestion des utlisateurs à partir d'un fichier Excel qui facilite le travail d'un administrateur infrastructure et cloud, au moment de l'arrivée d'un flux d'utilisateurs en tant que visiteurs dans l'entreprise ou des apprentis dans un centre de formation, il est facile de leur créer des comptes utilisateurs rapidement et les supprimer ou les désactiver juste après, avec une seule ligne de commande après avoir rempli le fichier Excel par les informations des utilisateurs.
+Le but de ce programme est d'automatiser la gestion des utilisateurs à partir d'un fichier Excel qui facilite le travail d'un administrateur infrastructure et cloud, au moment de l'arrivée d'un flux d'utilisateurs en tant que visiteurs dans l'entreprise ou des apprentis dans un centre de formation, il est facile de leur créer des comptes utilisateurs rapidement et les supprimer ou les désactiver juste après, avec une seule ligne de commande après avoir rempli le fichier Excel par les informations des utilisateurs.
